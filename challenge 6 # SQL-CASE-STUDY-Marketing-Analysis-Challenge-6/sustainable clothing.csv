@@ -1,0 +1,21 @@
+product_id,product_name,category,size,price
+1,"Organic Cotton T-Shirt",Tops,S,29.99
+2,"Recycled Denim Jeans",Bottoms,M,79.99
+3,"Hemp Crop Top",Tops,L,24.99
+4,"Bamboo Lounge Pants",Bottoms,XS,49.99
+5,"Eco-Friendly Hoodie",Outerwear,XL,59.99
+6,"Linen Button-Down Shirt",Tops,M,39.99
+7,"Organic Cotton Dress",Dresses,S,69.99
+8,"Sustainable Swim Shorts",Swimwear,L,34.99
+9,"Recycled Polyester Jacket",Outerwear,XL,89.99
+10,"Bamboo Yoga Leggings",Activewear,XS,54.99
+11,"Hemp Overalls",Bottoms,M,74.99
+12,"Organic Cotton Sweater",Tops,L,49.99
+13,"Cork Sandals",Footwear,S,39.99
+14,"Recycled Nylon Backpack",Accessories,"One Size",59.99
+15,"Organic Cotton Skirt",Bottoms,XS,34.99
+16,"Hemp Baseball Cap",Accessories,"One Size",24.99
+17,"Upcycled Denim Jacket",Outerwear,M,79.99
+18,"Linen Jumpsuit",Dresses,L,69.99
+19,"Organic Cotton Socks",Accessories,M,9.99
+20,"Bamboo Bathrobe",Loungewear,XL,69.99
